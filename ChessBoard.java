@@ -53,5 +53,3 @@ public class ChessBoard {
         queen.backtrack(1);
     }
 }
-
-
